@@ -97,4 +97,4 @@ This project demonstrates:
 - **Email**: Kiveuandrew@gmail.com
 ---
 
-*Created by Andrew Kieu | 20+ Years Sales Channel Management*
+*Created by Andrew Kiveu | 20+ Years Sales Channel Management*
