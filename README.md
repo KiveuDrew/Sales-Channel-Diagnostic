@@ -55,16 +55,6 @@ High sales numbers don't always mean high profits. This dashboard helps sales le
 
 ---
 
-## 🚀 How to Use
-
-1. **Download** `Sales_Channel_Dashboard.xlsx`
-2. **Open** the file in Excel (version 2016 or later)
-3. **Enable Data Connections** if prompted
-4. **Use the slicers** at the top to filter by Region, Segment, or Category
-5. **Watch all charts and KPIs** update instantly
-
----
-
 ## 📊 Dashboard at a Glance
 
 ![Dashboard](Dashboard_Screenshot.png)
@@ -74,12 +64,6 @@ High sales numbers don't always mean high profits. This dashboard helps sales le
 ## 💡 Why This Matters
 
 > *"A 20-year sales leader who can analyze data is more valuable than a junior analyst who can only run queries."*
-
-This project demonstrates:
-- ✅ **Business acumen** – 20+ years of sales channel experience
-- ✅ **Technical skills** – Power Query, Power Pivot, DAX
-- ✅ **Executive communication** – Professional dashboard design
-- ✅ **Actionable insights** – Data-driven recommendations
 
 ---
 
