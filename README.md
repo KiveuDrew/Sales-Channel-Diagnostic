@@ -61,24 +61,5 @@ High sales numbers don't always mean high profits. This dashboard helps sales le
 
 ---
 
-## 💡 Why This Matters
-
-> *"A 20-year sales leader who can analyze data is more valuable than a junior analyst who can only run queries."*
-
----
-
-## 🔜 Next Steps
-
-- **SQL** – Write queries to validate these findings on a full database
-- **Power BI** – Build a real-time version for live reporting
-- **Python** – Automate the data extraction and transformation
-
----
-
-## 📬 Connect With Me
-
-- **LinkedIn**: www.linkedin.com/in/kiveuandrew
-- **Email**: Kiveuandrew@gmail.com
----
 
 *Created by Andrew Kiveu | 20+ Years Sales Channel Management*
